@@ -167,7 +167,7 @@ The dashboard has **4 pages**, and each page answers one question a founder or i
 ### Page 1: Startup Funding Analysis (Overview)
 > **Question:** *How big is this market, and does the average deal represent a typical deal?*
 
-![Page 1 - Overview](07_Screenshots/dashboard_images/page_1_overview.png)
+![Page 1 - Overview](https://github.com/codebyavneesh/Startup-Funding-Analysis/blob/main/07_Screenshots/dashboard_images/dashboard_image_1.png)
 
 - KPI cards: total funding, total deals, startups funded, average and median deal size.
 - Deal-size buckets show how funding is split between many small deals and a few large ones.
@@ -176,7 +176,7 @@ The dashboard has **4 pages**, and each page answers one question a founder or i
 ### Page 2: Funding Trends Over Time
 > **Question:** *Is funding growing or slowing, and does any period stand out?*
 
-![Page 2 - Funding Trends](07_Screenshots/dashboard_images/page_2_trends.png)
+![Page 2 - Funding Trends](https://github.com/codebyavneesh/Startup-Funding-Analysis/blob/main/07_Screenshots/dashboard_images/dashboard_image_2.png)
 
 - Funding and deal count by year, plus a month-of-year view.
 - Year-over-year growth KPI and a quarter-wise table to check spikes and drops.
@@ -184,7 +184,7 @@ The dashboard has **4 pages**, and each page answers one question a founder or i
 ### Page 3: Where the Money Goes: Industries and Cities
 > **Question:** *Which sector and which city should a founder focus on, and is funding concentrated?*
 
-![Page 3 - Industries and Cities](07_Screenshots/dashboard_images/page_3_industries_cities.png)
+![Page 3 - Industries and Cities](https://github.com/codebyavneesh/Startup-Funding-Analysis/blob/main/07_Screenshots/dashboard_images/dashboard_image_3.png)
 
 - Industries ranked by both total funding and deal count.
 - Cities ranked by funding, with each city's percentage share of total funding.
@@ -192,7 +192,7 @@ The dashboard has **4 pages**, and each page answers one question a founder or i
 ### Page 4: Who Invests and at What Stage
 > **Question:** *Which investors are active, and at which funding stage does money flow?*
 
-![Page 4 - Investors and Stages](07_Screenshots/dashboard_images/page_4_investors_stages.png)
+![Page 4 - Investors and Stages](https://github.com/codebyavneesh/Startup-Funding-Analysis/blob/main/07_Screenshots/dashboard_images/dashboard_image_4.png)
 
 - Most active investors by deal count and the share of funding from undisclosed investors.
 - Funding and deal count by investment type, plus median deal size per stage.
